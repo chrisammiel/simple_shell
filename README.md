@@ -1,1 +1,2 @@
-This is a simple shell project where we learn how to create our own shell commands
+# printf
+Recreation of the printf C function
